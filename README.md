@@ -1,4 +1,7 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+This project is intended to be used as a file upload checker for audio and video files. It uses Backblaze B2 for storage and Next.js for the frontend. It is currently in development and is not ready for production use.
+
+Their are 3 file types accepted for video files: mp4, webm, and mkv.
+Their are 2 file types accepted for audio files: mp3, wav, and m4a.
 
 ## Getting Started
 
